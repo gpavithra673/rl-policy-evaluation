@@ -29,7 +29,7 @@ The agent receives a reward of +1 for reaching the goal state (G). The agent rec
 ![image](https://github.com/gpavithra673/rl-policy-evaluation/assets/93427264/d77c8d45-e3d2-46cb-b17b-37dbaf294636)
 
 ## POLICY EVALUATION FUNCTION
-Formula
+### Formula:
 ![image](https://github.com/gpavithra673/rl-policy-evaluation/assets/93427264/ac0a94b9-3cf8-42c0-a8ea-33a01d6192af)
 ## PROGRAM:
 ```
