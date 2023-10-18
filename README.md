@@ -89,4 +89,3 @@ else:
 ## RESULT:
 ### Thus, a Python program is developed to evaluate the given policy.
 
-Write your result here
